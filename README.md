@@ -1,4 +1,4 @@
-# Hi there, I'm AltairNocturne 👋
+# Hi there, I'm Rizqi Fauzi 👋
 
 **Junior Fullstack Developer | 5th-Semester Student**
 
