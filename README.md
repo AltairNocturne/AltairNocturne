@@ -8,7 +8,7 @@ I'm an IT student currently exploring the world of fullstack development with a 
 - 🎓 Currently studying in my 5th semester.
 - 💻 Building a coffee shop mobile application (exploring Dart & Hive).
 - 🌱 Learning **GSAP** to master advanced web animations and bring static designs to life.
-- 📫 Reach me directly via email: **emailkamu@gmail.com**
+- 📫 Reach me directly via email: **rizqifauzi.co@gmail.com**
 
 **🛠️ Tech Stack & Tools**
 
